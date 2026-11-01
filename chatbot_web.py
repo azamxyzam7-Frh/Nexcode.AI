@@ -1,7 +1,7 @@
 import gradio as gr
 import ollama
 
-MODEL = "qwen2.5:1.5b"
+MODEL = "qwen2.5:0.5b"
 SYSTEM = "Kamu asisten ramah. Jawab singkat dalam bahasa Indonesia."
 
 
